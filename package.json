@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://neelammkw.github.io/MERN_basic_frontend",
+  "homepage": "https://neelammkw.github.io/MERN-basicpages-frontend",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

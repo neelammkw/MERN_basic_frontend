@@ -7,7 +7,7 @@ export const Navbar = () => {
     return (
         <header>
                 <NavLink to="/">
-                        <img src="/images/logo.jpg" alt="Login" height="80" />
+                        <img src="logo.jpg" alt="Login" height="80" />
                     </NavLink>
             <nav className="navcontainer">
                 {/* <div className="logo"> */}

@@ -17,7 +17,7 @@ export const Services = () => {
 
                     return (<div className="card" key={index}>
                         <div className="card-img">
-                            <img src="./images/2.png" alt="our services info" width="{80}" />
+                            <img src="2.png" alt="our services info" width="{80}" />
 
                         </div>
                         <div className="card-details">

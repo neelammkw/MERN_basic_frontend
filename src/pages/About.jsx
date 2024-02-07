@@ -9,7 +9,7 @@ export const About = () => {
                 <div className="section-about">
                     <div className="container grid grid-two-cols">
                         <div className="registration-img">
-                            <img src="/images/3691028.jpg" alt="Login" width={500} height={400} />
+                            <img src = {require("./3691028.jpg")} alt="Login" width={500} height={400} />
                         </div>
                         <section className="about"> <h2>
                             Welcome, {user ? `${user.username} to Our Website` : `to our website`}
